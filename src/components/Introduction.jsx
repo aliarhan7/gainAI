@@ -5,7 +5,7 @@ const Introduction = () => {
   return (
     <div className="introduction">
         <div className="left">
-            <span>Morning breakfast everyday</span>
+            <span>Dinner breakfast everyday</span>
             <h1>Healty Diet</h1>
             <h2>Blueberry oatmeal</h2>
             <p>Great offer of healty breakfasts to keep you fit and healty</p>
