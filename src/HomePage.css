@@ -1,0 +1,12 @@
+.homepage {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(to right, #e89cfb, #aee9b4); /* Figma'daki hafif mavi degradeyi yakalar */
+    overflow-x: hidden;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif; /* Daha modern görünüm */
+  }

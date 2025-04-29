@@ -1,0 +1,89 @@
+.introduction {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 85px;
+    margin-top: 80px;
+    height: 500px;
+  }
+  
+  .left {
+    max-width: 500px;
+  }
+  
+  .left span {
+    font-size: 18px;
+    color: #4CAF50;
+    font-weight: 500;
+    margin-left: 4px;
+  }
+  
+  .left h1 {
+    font-size: 60px;
+    font-weight: 800;
+    margin: 10px 0;
+    color: #2c3e50;
+    margin-top: 20px;
+  }
+  
+  .left h2 {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 15px 0;
+    color: #2c3e50;
+  }
+  
+  .left p {
+    font-size: 20px;
+    margin-top: 20px;
+    color: #7f8c8d;
+  }
+  
+  .left button {
+    margin-top: 50px;
+    margin-left: -2px;
+    padding: 15px 30px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .left button:hover {
+    background-color: #388E3C;
+  }
+
+  .right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .meal-image img {
+    width: 100%;
+    max-width: 390px; 
+    height: auto;
+    position: relative;
+    margin-left: -260px;
+    opacity: 0.9;
+  }
+
+  .mango {
+    position: absolute;
+    top: -60px;
+    left: 150px;
+    width: 100%;
+    opacity: 0.9;
+  }
+
+  .blueberry {
+    position: relative;
+    width: 100%;
+    opacity: 0.9;
+    top: 150px;
+  }
+  
+  
